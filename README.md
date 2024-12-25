@@ -7,8 +7,8 @@
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-
+ 
+-   <a href="https://space.bilibili.com/300673741?spm_id_from=333.33.0.0"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：bilibili野生UP主，发表了 50 篇技术文章，100万阅读。
 -   <a href="https://mp.csdn.net/mp_blog/manage/article?spm=1001.2014.3001.9456"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：CSDN优秀作者，发表了 30 篇技术文章，15万阅读。
 
 ### **技术栈:**
@@ -23,11 +23,6 @@
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
-
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
 
 ### Github 活跃度
 
