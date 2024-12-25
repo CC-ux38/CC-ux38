@@ -7,7 +7,7 @@
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
- <img align="right" alt="GIF" src="./images/bilibili.gif" width="430" height="100%" />
+ <img align="right" alt="PNG" src="./images/bilibili.gif" width="430" height="100%" />
  
 -   <a href="https://space.bilibili.com/300673741?spm_id_from=333.33.0.0"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：bilibili野生UP主，发表了 50 篇技术文章，100万阅读。
 -   <a href="https://mp.csdn.net/mp_blog/manage/article?spm=1001.2014.3001.9456"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：CSDN优秀作者，发表了 30 篇技术文章，15万阅读。
@@ -27,8 +27,8 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=CC-ux38&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=CC-ux38&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CC-ux38&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CC-ux38&layout=compact&langs_count=6)
